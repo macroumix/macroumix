@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="right">🔥🔥 Stay Awhile And Listen 🔥🔥</h3>
-<img align="right" width="330" src="https://i.giphy.com/media/ynx1sj5Wz2atO/giphy.webp">
+<img align="right" width="290" src="https://i.giphy.com/media/ynx1sj5Wz2atO/giphy.webp">
 
 
 - 🌱 I’m currently learning **React.js**
