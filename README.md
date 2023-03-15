@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">🔥🔥 Stay Awhile And Listen 🔥🔥</h3>
+<h3 align="right">🔥🔥 Stay Awhile And Listen 🔥🔥</h3>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1904169545&psig=AOvVaw1KQ4px0zqm1ExV33QI6cIs&ust=1678973393475000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODS57eF3v0CFQAAAAAdAAAAABAE">
+
 
 - 🌱 I’m currently learning **React.js**
 
