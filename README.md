@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="right">🔥🔥 Stay Awhile And Listen 🔥🔥</h3>
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/762725004922449014/716E2249604473E5EA11C8B419C60463B218B832/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" src="https://i.giphy.com/media/ynx1sj5Wz2atO/giphy.webp">
 
 
 - 🌱 I’m currently learning **React.js**
