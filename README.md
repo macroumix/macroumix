@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="right">🔥🔥 Stay Awhile And Listen 🔥🔥</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1904169545&psig=AOvVaw1KQ4px0zqm1ExV33QI6cIs&ust=1678973393475000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODS57eF3v0CFQAAAAAdAAAAABAE">
+<img align="right" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1904169545&psig=AOvVaw1KQ4px0zqm1ExV33QI6cIs&ust=1678973393475000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODS57eF3v0CFQAAAAAdAAAAABAE](https://steamuserimages-a.akamaihd.net/ugc/762725004922449014/716E2249604473E5EA11C8B419C60463B218B832/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://steamuserimages-a.akamaihd.net/ugc/762725004922449014/716E2249604473E5EA11C8B419C60463B218B832/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
 
 
 - 🌱 I’m currently learning **React.js**
