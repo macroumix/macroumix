@@ -3,7 +3,7 @@
 <img align="right" width="285" src="https://i.giphy.com/media/ynx1sj5Wz2atO/giphy.webp">
 
 
-- 🌱 I’m currently working as a geotechnical engineer and want to improve/create tools for my field 
+- 🌱 I’m currently Looking to improve my skills. Interested in Python
 
 - 💬 Ask me about **javascript or python**
 
