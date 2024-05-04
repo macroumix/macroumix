@@ -3,11 +3,11 @@
 <img align="right" width="285" src="https://i.giphy.com/media/ynx1sj5Wz2atO/giphy.webp">
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working as a geotechnical engineer and want to improve/create tools for my field 
 
-- 💬 Ask me about **html, css, javascript, react.js**
+- 💬 Ask me about **javascript or python**
 
-- 📫 How to reach me **akalinserkanfed@gmail.com**
+- 📫 How to reach me **akalinserkan93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
